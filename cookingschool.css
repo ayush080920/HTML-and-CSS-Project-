@@ -1,0 +1,184 @@
+ * {
+            margin: 10px;
+        }
+
+        body {
+            background-color: cornsilk;
+        }
+
+        .main {
+            margin-left: 8px;
+        }
+
+        .heading {
+            font-family: cursive;
+            margin-top: 20px;
+            float: left;
+        }
+        .h_1{
+            display: block;
+            margin-left: 2px;
+        
+        }
+
+        .main2 {
+            display: flex;
+            text-decoration: none;
+            list-style-type: none;
+
+        }
+
+        ul {
+            display: flex;
+            list-style-type: none;
+            margin-left: 400px;
+            text-decoration: none;
+        }
+        a{
+            text-decoration: none;
+            color:crimson;
+        }
+
+        .anch:hover {
+            color: blueviolet;
+            cursor: pointer;
+            border-radius: auto;
+            background-color: navy;
+        }
+
+        .cooks {
+            margin-left: 250px;
+        }
+
+        .cooks:hover {
+            
+            border: 1px solid red;
+            border-radius: 10px;
+            box-shadow: 2px 2px 4px 4px gray;
+
+        }
+
+        .main3 {
+            margin-left: 400px;
+        }
+
+        .main4 {
+            display: flex;
+            padding: 0px 0px 0px 40px;
+            margin-inline-start: 250px;
+            gap: 180px;
+            column-count: 3;
+
+        }
+
+        .heading2 {
+            color: red;
+        }
+
+        span {
+            color: black;
+        }
+
+        .figur {
+            display: flex;
+            border: 1px solid white;
+            margin-left: 200px;
+            gap: 150px;
+        }
+
+        .figur:hover {
+            margin-left: 200px;
+            cursor: cell;
+            background-color: rgb(202, 209, 194);
+
+        }
+
+        .img2 {
+            margin-left: 200px;
+            display: flex;
+            gap: 150px;
+        }
+
+        .main5 {
+            text-align: center;
+
+        }
+
+        .main6 {
+            margin-left: 10px;
+            float: left;
+        }
+
+        .heading3 {
+            color: red;
+            text-align: left;
+        }
+
+        .heading4 {
+            display: flex;
+            margin-left: 300px;
+            gap: 100px;
+        }
+
+        .figure {
+
+            display: flex;
+            border: 1px solid white;
+            margin-left: 200px;
+            gap: 50px;
+        }
+
+        .figure:hover {
+            margin-left: 200px;
+            cursor: cell;
+            background-color: rgb(184, 182, 187);
+
+        }
+
+        #fig2 {
+            height: 200px;
+            width: 250px;
+            display: flex;
+
+        }
+
+        .heading5::first-letter {
+            font-size: 100%;
+            color: #8A2BE2;
+            background-color: red;
+            border-radius: 100%;
+        }
+
+        .para1 {
+           
+            float: left;
+            text-align: center;
+            margin-left: 450px;
+        }
+
+        .para {
+            color: red;
+            border: 2px double black;
+            background-color: rgb(159, 193, 130);
+        }
+
+        .log {
+
+            float: right;
+            color: blue;
+        }
+
+        .log:hover {
+            color: black;
+            cursor: grab;
+            border: auto;
+            background-color: azure;
+        }
+        .icon1{
+            float: right;
+        }
+       .image{
+        float: right;
+        margin-right: 400px;
+       }
+       
